@@ -1,5 +1,7 @@
 🎵 Estilo Vinilo - Biblioteca de Música
 
+Enlace a video : https://youtu.be/AZOLDNpPGec
+
 Estilo Vinilo es una plataforma web estática diseñada para melómanos y coleccionistas. El sitio ofrece una experiencia visual inmersiva para explorar artistas y álbumes icónicos de la cultura urbana, el rap clásico y el trap argentino, integrando una estética retro inspirada en los discos de vinilo con funcionalidades modernas.
 
 🚀 Características Principales
